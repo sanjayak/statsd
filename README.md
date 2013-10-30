@@ -1,3 +1,7 @@
+
+DUPLICATE OF the Orignal project "https://github.com/youdevise/java-statsd-client.git"
+
+
 java-statsd-client
 ==================
 
